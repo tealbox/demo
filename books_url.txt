@@ -1,0 +1,28 @@
+
+Python Concurrency with asyncio
+by Matthew Fowler
+
+Python High Performance, Second Edition: Build high-performing, concurrent, and distributed applications, Second Edition
+By Dr. Gabriele Lanaro
+
+Learning Concurrency in Python: Build highly efficient, robust, and concurrent applications
+By Elliot Forbes
+
+High Performance Python: Practical Performant Programming for Humans 2nd Edition
+by Micha Gorelick (Author), Ian Ozsvald (Author)
+
+Mastering Concurrency in Python: Create faster programs using concurrency, asynchronous, multithreading, and parallel programming
+By Quan Nguyen
+
+Parallel and High Performance Programming with Python: Unlock parallel and concurrent programming in Python using multithreading, CUDA, Pytorch and Dask. (English Edition)
+by Fabio Nelli (Author)
+
+Fast Python: High performance techniques for large datasets
+by Tiago Rodrigues Antao (Author)
+
+
+
+https://dokumen.pub/mastering-large-datasets-with-python-parallelize-and-distribute-your-python-code-1nbsped-1617296236-978-1617296239.html
+https://mongard.s3.ir-thr-at1.arvanstorage.com/High%20Performance%20Python%20Practical%20Performant%20Programming%20for%20Humans%20by%20Micha%20Gorelick,%20Ian%20Ozsvald.pdf
+https://ebin.pub/fast-python-high-performance-techniques-for-large-datasets-9781617297939.html
+https://pepa.holla.cz/wp-content/uploads/2016/08/High-Performance-Python.pdf
